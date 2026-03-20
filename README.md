@@ -1,1 +1,1 @@
-# [Create, read, update, delete chalenge](https://github.com/emilmilanov-1/mySQLprojects)
+# [Create, read, update, delete chalenge](CRUD challange.sql)
