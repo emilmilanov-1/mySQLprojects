@@ -8,4 +8,6 @@
 
 # [Project 3: Supply chain](https://github.com/emilmilanov-1/mySQLprojects/blob/1b7e5a8e76a8cb611cce27d925991f265243e987/supply_chain.sql)
 
-# [Project 3: Videotapes store](https://github.com/emilmilanov-1/mySQLprojects/blob/1b7e5a8e76a8cb611cce27d925991f265243e987/videoteka.sql)
+# [Project 4: Videotapes store](https://github.com/emilmilanov-1/mySQLprojects/blob/1b7e5a8e76a8cb611cce27d925991f265243e987/videoteka.sql)
+
+# [Project 5: Store analytics ](https://github.com/emilmilanov-1/mySQLprojects/blob/045229691b7fbfebb52f55eed1776a2079bfc5a7/store_analytics.sql)
